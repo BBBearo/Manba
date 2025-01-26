@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+}
+
+.S0{
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+.Manba{
+    border: 10px solid white;
+    
+}
+
+.S1{
+    color:palegoldenrod;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.S2{
+    color:white;
+    font-size: 2rem;
+}
